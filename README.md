@@ -1,11 +1,11 @@
-AnluinLearning
+AngluinLearning
 ==============
 
 # Introduction:
 
 ## 中文:
 
-这是一个 Anluin Learning Algorithm 的Python实现，算法通过反复询问每个句子是否属于正则语言L，来学习出L对应的最简DFA。本程序在此基础上可以生成该语言对应的正则表达式形式。关于该算法，慕尼黑工业大学的Helli提供了[Haskell的实现](https://github.com/Helli/LearningFormalLanguages)
+这是一个 Angluin Learning Algorithm 的Python实现，算法通过反复询问每个句子是否属于正则语言L，来学习出L对应的最简DFA。本程序在此基础上可以生成该语言对应的正则表达式形式。关于该算法，慕尼黑工业大学的Helli提供了[Haskell的实现](https://github.com/Helli/LearningFormalLanguages)
 
 ## Deutsch:
 
